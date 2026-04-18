@@ -6,4 +6,4 @@ models/
 predictions/
 processed/
 test.py
-.gitorignore
+.gitignore
